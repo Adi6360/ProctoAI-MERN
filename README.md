@@ -181,4 +181,4 @@ To run this project locally, follow these steps:
 
 ## Contributors
 
-- [Mohd Zubair](https://github.com/mohdzubairshafi)
+- [Adithya R S](https://github.com/Adi6360)
